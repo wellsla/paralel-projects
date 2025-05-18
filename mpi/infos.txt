@@ -1,0 +1,50 @@
+IP: 192.168.14.201 
+Hostname: lci-16-1-lnx, IP: 127.0.0.1
+
+Coletados Algoritmo 1 (LCI):
+(2, 131.158431)
+(4, 33.274193)
+(6, 28.308360)
+(8, 16.741306)
+(12, 14.886039)
+
+Estipulados Algoritmo 2 (LCI):
+Sequencial: 426.116928
+(2, 262.106434)
+(4, 145.337722)
+(6, 112.974103)
+(8, 96.538468)
+(12, 82.781426)
+(16, 140.681121)
+(24, 227.914097)
+(32, 288.240091)
+
+Métricas de desempenho:
+* Tempo de Execução Sequencial (Tₛ) : Tₛ;
+* Tempo de Execução Paralelo (Tₚ) : Tₚ;
+* Speedup (Sₚ) : Sₚ = Tₛ / Tₚ;
+* Eficiência (Eₚ) : Eₚ = Sₚ / p;
+* Custo Computacional (C) : C = p × Tₚ;
+* Granularidade (g) : avaliação qualitativa do tamanho da tarefa (tempo de processamento entre comunicações);
+* Escalabilidade : avaliação qualitativa da capacidade de manter eficiência ao aumentar p e o grão computacional;
+* Facilidade de Programação : avaliação qualitativa subjetiva do esforço para desenvolver e manter o código paralelo;
+
+
+IP's tentativa de processar em várias máquinas:
+192.168.14.201
+192.168.14.205
+192.168.14.207
+192.168.14.209
+
+Erro:
+178342@lci-16-1-lnx:~/Projects/paralel-projects/mpi$ mpirun -np 12 --hostfile hosts.txt /mpi/178342/nbody_mpi 16384 100
+--------------------------------------------------------------------------
+mpirun was unable to launch the specified application as it could not access
+or execute an executable:
+
+Executable: /mpi/178342/nbody_mpi
+Node: 192.168.14.207
+
+while attempting to start process rank 8.
+--------------------------------------------------------------------------
+8 total processes failed to start
