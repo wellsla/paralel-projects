@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
+#include <time.h>
 
 /*
  * pRNG based on http://www.cs.wm.edu/~va/software/park/park.html
@@ -48,6 +49,11 @@ void InitParticles( Particle[], ParticleV [], int );
 double ComputeForces( Particle [], Particle [], ParticleV [], int );
 double ComputeNewPos( Particle [], ParticleV [], int, double);
 
+// Calcular ms
+double diff_ms(struct timespec start, struct timespec end) {
+  return (end.tv_sec - start.tv_sec) * 1000.0 + (end.tv_nsec - start.tv_nsec) / 1e6;
+}
+
 int main(int argc, char* argv[])
 {
     double time;
@@ -57,8 +63,12 @@ int main(int argc, char* argv[])
     int         cnt;         /* number of times in loop */
     double      sim_t;       /* Simulation time */
 
-    int npart = atoi(argv[1]);
-    int cnt = atoi(argv[2]);
+    npart = atoi(argv[1]);
+    cnt = atoi(argv[2]);
+
+    // Inicio da contagem de tempo
+    struct timespec start, end;
+    clock_gettime(CLOCK_MONOTONIC, &start);
 
 /* Allocate memory for particles */
     particles = (Particle *) malloc(sizeof(Particle)*npart);
@@ -74,10 +84,19 @@ int main(int argc, char* argv[])
       /* Once we have the forces, we compute the changes in position */
       sim_t += ComputeNewPos( particles, pv, npart, max_f);
     }
-    /*
+
+    // Mede tempo do host e calcula os totais
+    clock_gettime(CLOCK_MONOTONIC, &end);
+    double total_time_ms = diff_ms(start, end);
+
+    // Imprime tempos
+    fprintf(stdout, "Tempos de Execução:\n", npart, cnt);
+    fprintf(stdout, "----------------------------\n");
+    fprintf(stdout, "Tempo total: %.3f ms\n", total_time_ms);
+    fprintf(stdout, "----------------------------\n");
+
     for (i=0; i<npart; i++)
       fprintf(stdout,"%.5lf %.5lf %.5lf\n", particles[i].x, particles[i].y, particles[i].z);
-      */
     return 0;
 }
 
