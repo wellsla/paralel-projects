@@ -63,8 +63,10 @@ int main(int argc, char* argv[])
     int         cnt;         /* number of times in loop */
     double      sim_t;       /* Simulation time */
 
+    int cnt_main;
     npart = atoi(argv[1]);
     cnt = atoi(argv[2]);
+    cnt_main = cnt;
 
     // Inicio da contagem de tempo
     struct timespec start, end;
@@ -90,7 +92,7 @@ int main(int argc, char* argv[])
     double total_time_ms = diff_ms(start, end);
 
     // Imprime tempos
-    fprintf(stdout, "Tempos de Execução:\n", npart, cnt);
+    fprintf(stdout, "Tempos de Execução (%d, %d):\n", npart, cnt_main);
     fprintf(stdout, "----------------------------\n");
     fprintf(stdout, "Tempo total: %.3f ms\n", total_time_ms);
     fprintf(stdout, "----------------------------\n");
