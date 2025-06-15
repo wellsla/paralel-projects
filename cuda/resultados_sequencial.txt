@@ -1,0 +1,151 @@
+﻿{
+    tempo_total: 252.736,
+    particulas: 600,
+    passos: 100
+},
+{
+    tempo_total: 2038.196,
+    particulas: 1200,
+    passos: 200
+},
+{
+    tempo_total: 69120.42,
+    particulas: 5000,
+    passos: 400
+},
+{
+    tempo_total: 1993.794,
+    particulas: 1200,
+    passos: 200
+},
+{
+    tempo_total: 187343.3,
+    particulas: 16384,
+    passos: 100
+},
+{
+    tempo_total: 1999.871,
+    particulas: 1200,
+    passos: 200
+},
+{
+    tempo_total: 31.893,
+    particulas: 300,
+    passos: 50
+},
+{
+    tempo_total: 252.011,
+    particulas: 600,
+    passos: 100
+},
+{
+    tempo_total: 185004.8,
+    particulas: 16384,
+    passos: 100
+},
+{
+    tempo_total: 69486.79,
+    particulas: 5000,
+    passos: 400
+},
+{
+    tempo_total: 251.945,
+    particulas: 600,
+    passos: 100
+},
+{
+    tempo_total: 252.122,
+    particulas: 600,
+    passos: 100
+},
+{
+    tempo_total: 185381.1,
+    particulas: 16384,
+    passos: 100
+},
+{
+    tempo_total: 32.046,
+    particulas: 300,
+    passos: 50
+},
+{
+    tempo_total: 185743.1,
+    particulas: 16384,
+    passos: 100
+},
+{
+    tempo_total: 0.018,
+    particulas: 4,
+    passos: 10
+},
+{
+    tempo_total: 1996.912,
+    particulas: 1200,
+    passos: 200
+},
+{
+    tempo_total: 0.017,
+    particulas: 4,
+    passos: 10
+},
+{
+    tempo_total: 68965.69,
+    particulas: 5000,
+    passos: 400
+},
+{
+    tempo_total: 185279.4,
+    particulas: 16384,
+    passos: 100
+},
+{
+    tempo_total: 2060.814,
+    particulas: 1200,
+    passos: 200
+},
+{
+    tempo_total: 0.017,
+    particulas: 4,
+    passos: 10
+},
+{
+    tempo_total: 69713.23,
+    particulas: 5000,
+    passos: 400
+},
+{
+    tempo_total: 0.016,
+    particulas: 4,
+    passos: 10
+},
+{
+    tempo_total: 32.212,
+    particulas: 300,
+    passos: 50
+},
+{
+    tempo_total: 251.078,
+    particulas: 600,
+    passos: 100
+},
+{
+    tempo_total: 31.98,
+    particulas: 300,
+    passos: 50
+},
+{
+    tempo_total: 68481.4,
+    particulas: 5000,
+    passos: 400
+},
+{
+    tempo_total: 0.018,
+    particulas: 4,
+    passos: 10
+},
+{
+    tempo_total: 31.946,
+    particulas: 300,
+    passos: 50
+}
+

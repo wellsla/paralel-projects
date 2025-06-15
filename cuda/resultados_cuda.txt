@@ -1,0 +1,1200 @@
+{
+    tempo_total: 179.446,
+    tempo_no_kernel_gpu: 66.384,
+    tempo_sequencial_cpu: 113.062,
+    particulas: 600,
+    passos: 100,
+    threads: 64
+},
+{
+    tempo_total: 398.144,
+    tempo_no_kernel_gpu: 263.748,
+    tempo_sequencial_cpu: 134.396,
+    particulas: 1200,
+    passos: 200,
+    threads: 64
+},
+{
+    tempo_total: 4575.354,
+    tempo_no_kernel_gpu: 4349.873,
+    tempo_sequencial_cpu: 225.481,
+    particulas: 5000,
+    passos: 400,
+    threads: 64
+},
+{
+    tempo_total: 422.602,
+    tempo_no_kernel_gpu: 281.608,
+    tempo_sequencial_cpu: 140.994,
+    particulas: 1200,
+    passos: 200,
+    threads: 64
+},
+{
+    tempo_total: 8510.383,
+    tempo_no_kernel_gpu: 8343.246,
+    tempo_sequencial_cpu: 167.137,
+    particulas: 16384,
+    passos: 100,
+    threads: 64
+},
+{
+    tempo_total: 416.733,
+    tempo_no_kernel_gpu: 277.981,
+    tempo_sequencial_cpu: 138.752,
+    particulas: 1200,
+    passos: 200,
+    threads: 64
+},
+{
+    tempo_total: 123.439,
+    tempo_no_kernel_gpu: 19.482,
+    tempo_sequencial_cpu: 103.957,
+    particulas: 300,
+    passos: 50,
+    threads: 64
+},
+{
+    tempo_total: 186.216,
+    tempo_no_kernel_gpu: 68.664,
+    tempo_sequencial_cpu: 117.552,
+    particulas: 600,
+    passos: 100,
+    threads: 64
+},
+{
+    tempo_total: 7960.012,
+    tempo_no_kernel_gpu: 7806.821,
+    tempo_sequencial_cpu: 153.191,
+    particulas: 16384,
+    passos: 100,
+    threads: 64
+},
+{
+    tempo_total: 4497.134,
+    tempo_no_kernel_gpu: 4274.861,
+    tempo_sequencial_cpu: 222.273,
+    particulas: 5000,
+    passos: 400,
+    threads: 64
+},
+{
+    tempo_total: 178.056,
+    tempo_no_kernel_gpu: 66.224,
+    tempo_sequencial_cpu: 111.832,
+    particulas: 600,
+    passos: 100,
+    threads: 64
+},
+{
+    tempo_total: 188.998,
+    tempo_no_kernel_gpu: 68,
+    tempo_sequencial_cpu: 120.998,
+    particulas: 600,
+    passos: 100,
+    threads: 64
+},
+{
+    tempo_total: 8002.882,
+    tempo_no_kernel_gpu: 7805.017,
+    tempo_sequencial_cpu: 197.865,
+    particulas: 16384,
+    passos: 100,
+    threads: 64
+},
+{
+    tempo_total: 122.364,
+    tempo_no_kernel_gpu: 19.125,
+    tempo_sequencial_cpu: 103.239,
+    particulas: 300,
+    passos: 50,
+    threads: 64
+},
+{
+    tempo_total: 8195.829,
+    tempo_no_kernel_gpu: 8040.738,
+    tempo_sequencial_cpu: 155.091,
+    particulas: 16384,
+    passos: 100,
+    threads: 64
+},
+{
+    tempo_total: 96.634,
+    tempo_no_kernel_gpu: 0.715,
+    tempo_sequencial_cpu: 95.919,
+    particulas: 4,
+    passos: 10,
+    threads: 64
+},
+{
+    tempo_total: 421.849,
+    tempo_no_kernel_gpu: 279.922,
+    tempo_sequencial_cpu: 141.927,
+    particulas: 1200,
+    passos: 200,
+    threads: 64
+},
+{
+    tempo_total: 98.952,
+    tempo_no_kernel_gpu: 0.759,
+    tempo_sequencial_cpu: 98.193,
+    particulas: 4,
+    passos: 10,
+    threads: 64
+},
+{
+    tempo_total: 4536.87,
+    tempo_no_kernel_gpu: 4317.776,
+    tempo_sequencial_cpu: 219.094,
+    particulas: 5000,
+    passos: 400,
+    threads: 64
+},
+{
+    tempo_total: 8053.887,
+    tempo_no_kernel_gpu: 7894.45,
+    tempo_sequencial_cpu: 159.437,
+    particulas: 16384,
+    passos: 100,
+    threads: 64
+},
+{
+    tempo_total: 424.65,
+    tempo_no_kernel_gpu: 279.916,
+    tempo_sequencial_cpu: 144.734,
+    particulas: 1200,
+    passos: 200,
+    threads: 64
+},
+{
+    tempo_total: 94.881,
+    tempo_no_kernel_gpu: 0.735,
+    tempo_sequencial_cpu: 94.146,
+    particulas: 4,
+    passos: 10,
+    threads: 64
+},
+{
+    tempo_total: 4434.511,
+    tempo_no_kernel_gpu: 4203.064,
+    tempo_sequencial_cpu: 231.447,
+    particulas: 5000,
+    passos: 400,
+    threads: 64
+},
+{
+    tempo_total: 96.473,
+    tempo_no_kernel_gpu: 0.62,
+    tempo_sequencial_cpu: 95.853,
+    particulas: 4,
+    passos: 10,
+    threads: 64
+},
+{
+    tempo_total: 131.463,
+    tempo_no_kernel_gpu: 20.454,
+    tempo_sequencial_cpu: 111.009,
+    particulas: 300,
+    passos: 50,
+    threads: 64
+},
+{
+    tempo_total: 183.196,
+    tempo_no_kernel_gpu: 68.414,
+    tempo_sequencial_cpu: 114.782,
+    particulas: 600,
+    passos: 100,
+    threads: 64
+},
+{
+    tempo_total: 135.931,
+    tempo_no_kernel_gpu: 19.15,
+    tempo_sequencial_cpu: 116.781,
+    particulas: 300,
+    passos: 50,
+    threads: 64
+},
+{
+    tempo_total: 4436.195,
+    tempo_no_kernel_gpu: 4216.339,
+    tempo_sequencial_cpu: 219.856,
+    particulas: 5000,
+    passos: 400,
+    threads: 64
+},
+{
+    tempo_total: 100.141,
+    tempo_no_kernel_gpu: 0.622,
+    tempo_sequencial_cpu: 99.519,
+    particulas: 4,
+    passos: 10,
+    threads: 64
+},
+{
+    tempo_total: 121.477,
+    tempo_no_kernel_gpu: 19.833,
+    tempo_sequencial_cpu: 101.644,
+    particulas: 300,
+    passos: 50,
+    threads: 64
+},
+{
+    tempo_total: 439.999,
+    tempo_no_kernel_gpu: 326.423,
+    tempo_sequencial_cpu: 113.576,
+    particulas: 600,
+    passos: 100,
+    threads: 512
+},
+{
+    tempo_total: 1446.793,
+    tempo_no_kernel_gpu: 1305.205,
+    tempo_sequencial_cpu: 141.588,
+    particulas: 1200,
+    passos: 200,
+    threads: 512
+},
+{
+    tempo_total: 11130.53,
+    tempo_no_kernel_gpu: 10904.25,
+    tempo_sequencial_cpu: 226.28,
+    particulas: 5000,
+    passos: 400,
+    threads: 512
+},
+{
+    tempo_total: 1449.697,
+    tempo_no_kernel_gpu: 1306.22,
+    tempo_sequencial_cpu: 143.477,
+    particulas: 1200,
+    passos: 200,
+    threads: 512
+},
+{
+    tempo_total: 9091.736,
+    tempo_no_kernel_gpu: 8940.055,
+    tempo_sequencial_cpu: 151.681,
+    particulas: 16384,
+    passos: 100,
+    threads: 512
+},
+{
+    tempo_total: 1449.917,
+    tempo_no_kernel_gpu: 1307.917,
+    tempo_sequencial_cpu: 142,
+    particulas: 1200,
+    passos: 200,
+    threads: 512
+},
+{
+    tempo_total: 153.161,
+    tempo_no_kernel_gpu: 51.825,
+    tempo_sequencial_cpu: 101.336,
+    particulas: 300,
+    passos: 50,
+    threads: 512
+},
+{
+    tempo_total: 442.937,
+    tempo_no_kernel_gpu: 326.379,
+    tempo_sequencial_cpu: 116.558,
+    particulas: 600,
+    passos: 100,
+    threads: 512
+},
+{
+    tempo_total: 9100.496,
+    tempo_no_kernel_gpu: 8943.556,
+    tempo_sequencial_cpu: 156.94,
+    particulas: 16384,
+    passos: 100,
+    threads: 512
+},
+{
+    tempo_total: 11125.55,
+    tempo_no_kernel_gpu: 10890.87,
+    tempo_sequencial_cpu: 234.679,
+    particulas: 5000,
+    passos: 400,
+    threads: 512
+},
+{
+    tempo_total: 439.528,
+    tempo_no_kernel_gpu: 325.709,
+    tempo_sequencial_cpu: 113.819,
+    particulas: 600,
+    passos: 100,
+    threads: 512
+},
+{
+    tempo_total: 437.799,
+    tempo_no_kernel_gpu: 326.214,
+    tempo_sequencial_cpu: 111.585,
+    particulas: 600,
+    passos: 100,
+    threads: 512
+},
+{
+    tempo_total: 9121.079,
+    tempo_no_kernel_gpu: 8950.852,
+    tempo_sequencial_cpu: 170.227,
+    particulas: 16384,
+    passos: 100,
+    threads: 512
+},
+{
+    tempo_total: 151.999,
+    tempo_no_kernel_gpu: 52.202,
+    tempo_sequencial_cpu: 99.797,
+    particulas: 300,
+    passos: 50,
+    threads: 512
+},
+{
+    tempo_total: 9082.453,
+    tempo_no_kernel_gpu: 8928.116,
+    tempo_sequencial_cpu: 154.337,
+    particulas: 16384,
+    passos: 100,
+    threads: 512
+},
+{
+    tempo_total: 94.95,
+    tempo_no_kernel_gpu: 0.693,
+    tempo_sequencial_cpu: 94.257,
+    particulas: 4,
+    passos: 10,
+    threads: 512
+},
+{
+    tempo_total: 1447.825,
+    tempo_no_kernel_gpu: 1308.968,
+    tempo_sequencial_cpu: 138.857,
+    particulas: 1200,
+    passos: 200,
+    threads: 512
+},
+{
+    tempo_total: 95.775,
+    tempo_no_kernel_gpu: 0.698,
+    tempo_sequencial_cpu: 95.077,
+    particulas: 4,
+    passos: 10,
+    threads: 512
+},
+{
+    tempo_total: 11141.81,
+    tempo_no_kernel_gpu: 10917.56,
+    tempo_sequencial_cpu: 224.248,
+    particulas: 5000,
+    passos: 400,
+    threads: 512
+},
+{
+    tempo_total: 9094.371,
+    tempo_no_kernel_gpu: 8941.105,
+    tempo_sequencial_cpu: 153.266,
+    particulas: 16384,
+    passos: 100,
+    threads: 512
+},
+{
+    tempo_total: 1455.381,
+    tempo_no_kernel_gpu: 1308.586,
+    tempo_sequencial_cpu: 146.795,
+    particulas: 1200,
+    passos: 200,
+    threads: 512
+},
+{
+    tempo_total: 94.149,
+    tempo_no_kernel_gpu: 0.682,
+    tempo_sequencial_cpu: 93.467,
+    particulas: 4,
+    passos: 10,
+    threads: 512
+},
+{
+    tempo_total: 11116.95,
+    tempo_no_kernel_gpu: 10892.24,
+    tempo_sequencial_cpu: 224.709,
+    particulas: 5000,
+    passos: 400,
+    threads: 512
+},
+{
+    tempo_total: 93.694,
+    tempo_no_kernel_gpu: 0.696,
+    tempo_sequencial_cpu: 92.998,
+    particulas: 4,
+    passos: 10,
+    threads: 512
+},
+{
+    tempo_total: 152.185,
+    tempo_no_kernel_gpu: 51.538,
+    tempo_sequencial_cpu: 100.647,
+    particulas: 300,
+    passos: 50,
+    threads: 512
+},
+{
+    tempo_total: 436.914,
+    tempo_no_kernel_gpu: 324.332,
+    tempo_sequencial_cpu: 112.582,
+    particulas: 600,
+    passos: 100,
+    threads: 512
+},
+{
+    tempo_total: 154.915,
+    tempo_no_kernel_gpu: 52.212,
+    tempo_sequencial_cpu: 102.703,
+    particulas: 300,
+    passos: 50,
+    threads: 512
+},
+{
+    tempo_total: 11206.82,
+    tempo_no_kernel_gpu: 10979.25,
+    tempo_sequencial_cpu: 227.565,
+    particulas: 5000,
+    passos: 400,
+    threads: 512
+},
+{
+    tempo_total: 93.122,
+    tempo_no_kernel_gpu: 0.765,
+    tempo_sequencial_cpu: 92.357,
+    particulas: 4,
+    passos: 10,
+    threads: 512
+},
+{
+    tempo_total: 154.269,
+    tempo_no_kernel_gpu: 53.092,
+    tempo_sequencial_cpu: 101.177,
+    particulas: 300,
+    passos: 50,
+    threads: 512
+},
+{
+    tempo_total: 198.533,
+    tempo_no_kernel_gpu: 88.595,
+    tempo_sequencial_cpu: 109.938,
+    particulas: 600,
+    passos: 100,
+    threads: 128
+},
+{
+    tempo_total: 491.977,
+    tempo_no_kernel_gpu: 354.419,
+    tempo_sequencial_cpu: 137.558,
+    particulas: 1200,
+    passos: 200,
+    threads: 128
+},
+{
+    tempo_total: 5727.924,
+    tempo_no_kernel_gpu: 5508.037,
+    tempo_sequencial_cpu: 219.887,
+    particulas: 5000,
+    passos: 400,
+    threads: 128
+},
+{
+    tempo_total: 491.001,
+    tempo_no_kernel_gpu: 352.986,
+    tempo_sequencial_cpu: 138.015,
+    particulas: 1200,
+    passos: 200,
+    threads: 128
+},
+{
+    tempo_total: 9048.361,
+    tempo_no_kernel_gpu: 8891.358,
+    tempo_sequencial_cpu: 157.003,
+    particulas: 16384,
+    passos: 100,
+    threads: 128
+},
+{
+    tempo_total: 503.583,
+    tempo_no_kernel_gpu: 353.9,
+    tempo_sequencial_cpu: 149.683,
+    particulas: 1200,
+    passos: 200,
+    threads: 128
+},
+{
+    tempo_total: 129.283,
+    tempo_no_kernel_gpu: 22.846,
+    tempo_sequencial_cpu: 106.437,
+    particulas: 300,
+    passos: 50,
+    threads: 128
+},
+{
+    tempo_total: 200.982,
+    tempo_no_kernel_gpu: 89.312,
+    tempo_sequencial_cpu: 111.67,
+    particulas: 600,
+    passos: 100,
+    threads: 128
+},
+{
+    tempo_total: 9037.107,
+    tempo_no_kernel_gpu: 8880.104,
+    tempo_sequencial_cpu: 157.003,
+    particulas: 16384,
+    passos: 100,
+    threads: 128
+},
+{
+    tempo_total: 5721.116,
+    tempo_no_kernel_gpu: 5503.455,
+    tempo_sequencial_cpu: 217.661,
+    particulas: 5000,
+    passos: 400,
+    threads: 128
+},
+{
+    tempo_total: 204.537,
+    tempo_no_kernel_gpu: 89.355,
+    tempo_sequencial_cpu: 115.182,
+    particulas: 600,
+    passos: 100,
+    threads: 128
+},
+{
+    tempo_total: 199.371,
+    tempo_no_kernel_gpu: 88.085,
+    tempo_sequencial_cpu: 111.286,
+    particulas: 600,
+    passos: 100,
+    threads: 128
+},
+{
+    tempo_total: 9011.916,
+    tempo_no_kernel_gpu: 8836.81,
+    tempo_sequencial_cpu: 175.106,
+    particulas: 16384,
+    passos: 100,
+    threads: 128
+},
+{
+    tempo_total: 121.975,
+    tempo_no_kernel_gpu: 22.18,
+    tempo_sequencial_cpu: 99.795,
+    particulas: 300,
+    passos: 50,
+    threads: 128
+},
+{
+    tempo_total: 9028.197,
+    tempo_no_kernel_gpu: 8875.892,
+    tempo_sequencial_cpu: 152.305,
+    particulas: 16384,
+    passos: 100,
+    threads: 128
+},
+{
+    tempo_total: 93.647,
+    tempo_no_kernel_gpu: 0.702,
+    tempo_sequencial_cpu: 92.945,
+    particulas: 4,
+    passos: 10,
+    threads: 128
+},
+{
+    tempo_total: 491.505,
+    tempo_no_kernel_gpu: 355.211,
+    tempo_sequencial_cpu: 136.294,
+    particulas: 1200,
+    passos: 200,
+    threads: 128
+},
+{
+    tempo_total: 92.976,
+    tempo_no_kernel_gpu: 0.695,
+    tempo_sequencial_cpu: 92.281,
+    particulas: 4,
+    passos: 10,
+    threads: 128
+},
+{
+    tempo_total: 5709.387,
+    tempo_no_kernel_gpu: 5490.688,
+    tempo_sequencial_cpu: 218.699,
+    particulas: 5000,
+    passos: 400,
+    threads: 128
+},
+{
+    tempo_total: 9041.39,
+    tempo_no_kernel_gpu: 8883.909,
+    tempo_sequencial_cpu: 157.481,
+    particulas: 16384,
+    passos: 100,
+    threads: 128
+},
+{
+    tempo_total: 489.185,
+    tempo_no_kernel_gpu: 353.034,
+    tempo_sequencial_cpu: 136.151,
+    particulas: 1200,
+    passos: 200,
+    threads: 128
+},
+{
+    tempo_total: 93.54,
+    tempo_no_kernel_gpu: 0.66,
+    tempo_sequencial_cpu: 92.88,
+    particulas: 4,
+    passos: 10,
+    threads: 128
+},
+{
+    tempo_total: 5705.407,
+    tempo_no_kernel_gpu: 5489.927,
+    tempo_sequencial_cpu: 215.48,
+    particulas: 5000,
+    passos: 400,
+    threads: 128
+},
+{
+    tempo_total: 93.2,
+    tempo_no_kernel_gpu: 0.682,
+    tempo_sequencial_cpu: 92.518,
+    particulas: 4,
+    passos: 10,
+    threads: 128
+},
+{
+    tempo_total: 124.181,
+    tempo_no_kernel_gpu: 22.822,
+    tempo_sequencial_cpu: 101.359,
+    particulas: 300,
+    passos: 50,
+    threads: 128
+},
+{
+    tempo_total: 199.956,
+    tempo_no_kernel_gpu: 88.685,
+    tempo_sequencial_cpu: 111.271,
+    particulas: 600,
+    passos: 100,
+    threads: 128
+},
+{
+    tempo_total: 128.702,
+    tempo_no_kernel_gpu: 23.01,
+    tempo_sequencial_cpu: 105.692,
+    particulas: 300,
+    passos: 50,
+    threads: 128
+},
+{
+    tempo_total: 5704.048,
+    tempo_no_kernel_gpu: 5487.961,
+    tempo_sequencial_cpu: 216.087,
+    particulas: 5000,
+    passos: 400,
+    threads: 128
+},
+{
+    tempo_total: 93.797,
+    tempo_no_kernel_gpu: 0.69,
+    tempo_sequencial_cpu: 93.107,
+    particulas: 4,
+    passos: 10,
+    threads: 128
+},
+{
+    tempo_total: 141.612,
+    tempo_no_kernel_gpu: 22.869,
+    tempo_sequencial_cpu: 118.743,
+    particulas: 300,
+    passos: 50,
+    threads: 128
+},
+{
+    tempo_total: 276.613,
+    tempo_no_kernel_gpu: 164.905,
+    tempo_sequencial_cpu: 111.708,
+    particulas: 600,
+    passos: 100,
+    threads: 256
+},
+{
+    tempo_total: 835.235,
+    tempo_no_kernel_gpu: 690.406,
+    tempo_sequencial_cpu: 144.829,
+    particulas: 1200,
+    passos: 200,
+    threads: 256
+},
+{
+    tempo_total: 5777.298,
+    tempo_no_kernel_gpu: 5556.537,
+    tempo_sequencial_cpu: 220.761,
+    particulas: 5000,
+    passos: 400,
+    threads: 256
+},
+{
+    tempo_total: 837.911,
+    tempo_no_kernel_gpu: 693.711,
+    tempo_sequencial_cpu: 144.2,
+    particulas: 1200,
+    passos: 200,
+    threads: 256
+},
+{
+    tempo_total: 9329.371,
+    tempo_no_kernel_gpu: 9165.377,
+    tempo_sequencial_cpu: 163.994,
+    particulas: 16384,
+    passos: 100,
+    threads: 256
+},
+{
+    tempo_total: 833.367,
+    tempo_no_kernel_gpu: 691.3,
+    tempo_sequencial_cpu: 142.067,
+    particulas: 1200,
+    passos: 200,
+    threads: 256
+},
+{
+    tempo_total: 141.481,
+    tempo_no_kernel_gpu: 41.351,
+    tempo_sequencial_cpu: 100.13,
+    particulas: 300,
+    passos: 50,
+    threads: 256
+},
+{
+    tempo_total: 275.626,
+    tempo_no_kernel_gpu: 164.886,
+    tempo_sequencial_cpu: 110.74,
+    particulas: 600,
+    passos: 100,
+    threads: 256
+},
+{
+    tempo_total: 9252.786,
+    tempo_no_kernel_gpu: 9096.792,
+    tempo_sequencial_cpu: 155.994,
+    particulas: 16384,
+    passos: 100,
+    threads: 256
+},
+{
+    tempo_total: 6133.928,
+    tempo_no_kernel_gpu: 5911.739,
+    tempo_sequencial_cpu: 222.189,
+    particulas: 5000,
+    passos: 400,
+    threads: 256
+},
+{
+    tempo_total: 291.872,
+    tempo_no_kernel_gpu: 174.301,
+    tempo_sequencial_cpu: 117.571,
+    particulas: 600,
+    passos: 100,
+    threads: 256
+},
+{
+    tempo_total: 298.047,
+    tempo_no_kernel_gpu: 166.169,
+    tempo_sequencial_cpu: 131.878,
+    particulas: 600,
+    passos: 100,
+    threads: 256
+},
+{
+    tempo_total: 9109.973,
+    tempo_no_kernel_gpu: 8909.938,
+    tempo_sequencial_cpu: 200.035,
+    particulas: 16384,
+    passos: 100,
+    threads: 256
+},
+{
+    tempo_total: 147.83,
+    tempo_no_kernel_gpu: 42.151,
+    tempo_sequencial_cpu: 105.679,
+    particulas: 300,
+    passos: 50,
+    threads: 256
+},
+{
+    tempo_total: 9270.084,
+    tempo_no_kernel_gpu: 9111.022,
+    tempo_sequencial_cpu: 159.062,
+    particulas: 16384,
+    passos: 100,
+    threads: 256
+},
+{
+    tempo_total: 93.186,
+    tempo_no_kernel_gpu: 0.687,
+    tempo_sequencial_cpu: 92.499,
+    particulas: 4,
+    passos: 10,
+    threads: 256
+},
+{
+    tempo_total: 841.781,
+    tempo_no_kernel_gpu: 697.733,
+    tempo_sequencial_cpu: 144.048,
+    particulas: 1200,
+    passos: 200,
+    threads: 256
+},
+{
+    tempo_total: 97.349,
+    tempo_no_kernel_gpu: 1.152,
+    tempo_sequencial_cpu: 96.197,
+    particulas: 4,
+    passos: 10,
+    threads: 256
+},
+{
+    tempo_total: 5880.065,
+    tempo_no_kernel_gpu: 5643.34,
+    tempo_sequencial_cpu: 236.725,
+    particulas: 5000,
+    passos: 400,
+    threads: 256
+},
+{
+    tempo_total: 9155.662,
+    tempo_no_kernel_gpu: 9000.704,
+    tempo_sequencial_cpu: 154.958,
+    particulas: 16384,
+    passos: 100,
+    threads: 256
+},
+{
+    tempo_total: 869.685,
+    tempo_no_kernel_gpu: 711.099,
+    tempo_sequencial_cpu: 158.586,
+    particulas: 1200,
+    passos: 200,
+    threads: 256
+},
+{
+    tempo_total: 93.283,
+    tempo_no_kernel_gpu: 0.715,
+    tempo_sequencial_cpu: 92.568,
+    particulas: 4,
+    passos: 10,
+    threads: 256
+},
+{
+    tempo_total: 6050.141,
+    tempo_no_kernel_gpu: 5824.111,
+    tempo_sequencial_cpu: 226.03,
+    particulas: 5000,
+    passos: 400,
+    threads: 256
+},
+{
+    tempo_total: 92.91,
+    tempo_no_kernel_gpu: 0.683,
+    tempo_sequencial_cpu: 92.227,
+    particulas: 4,
+    passos: 10,
+    threads: 256
+},
+{
+    tempo_total: 142.917,
+    tempo_no_kernel_gpu: 42.696,
+    tempo_sequencial_cpu: 100.221,
+    particulas: 300,
+    passos: 50,
+    threads: 256
+},
+{
+    tempo_total: 278.557,
+    tempo_no_kernel_gpu: 165.222,
+    tempo_sequencial_cpu: 113.335,
+    particulas: 600,
+    passos: 100,
+    threads: 256
+},
+{
+    tempo_total: 142.74,
+    tempo_no_kernel_gpu: 41.399,
+    tempo_sequencial_cpu: 101.341,
+    particulas: 300,
+    passos: 50,
+    threads: 256
+},
+{
+    tempo_total: 6148.265,
+    tempo_no_kernel_gpu: 5925.029,
+    tempo_sequencial_cpu: 223.236,
+    particulas: 5000,
+    passos: 400,
+    threads: 256
+},
+{
+    tempo_total: 95.812,
+    tempo_no_kernel_gpu: 0.697,
+    tempo_sequencial_cpu: 95.115,
+    particulas: 4,
+    passos: 10,
+    threads: 256
+},
+{
+    tempo_total: 151.182,
+    tempo_no_kernel_gpu: 41.93,
+    tempo_sequencial_cpu: 109.252,
+    particulas: 300,
+    passos: 50,
+    threads: 256
+},
+{
+    tempo_total: 176.281,
+    tempo_no_kernel_gpu: 63.211,
+    tempo_sequencial_cpu: 113.07,
+    particulas: 600,
+    passos: 100,
+    threads: 32
+},
+{
+    tempo_total: 387.924,
+    tempo_no_kernel_gpu: 252.566,
+    tempo_sequencial_cpu: 135.358,
+    particulas: 1200,
+    passos: 200,
+    threads: 32
+},
+{
+    tempo_total: 3696.932,
+    tempo_no_kernel_gpu: 3468.735,
+    tempo_sequencial_cpu: 228.197,
+    particulas: 5000,
+    passos: 400,
+    threads: 32
+},
+{
+    tempo_total: 389.851,
+    tempo_no_kernel_gpu: 251.897,
+    tempo_sequencial_cpu: 137.954,
+    particulas: 1200,
+    passos: 200,
+    threads: 32
+},
+{
+    tempo_total: 7993.367,
+    tempo_no_kernel_gpu: 7841.511,
+    tempo_sequencial_cpu: 151.856,
+    particulas: 16384,
+    passos: 100,
+    threads: 32
+},
+{
+    tempo_total: 388.589,
+    tempo_no_kernel_gpu: 252.944,
+    tempo_sequencial_cpu: 135.645,
+    particulas: 1200,
+    passos: 200,
+    threads: 32
+},
+{
+    tempo_total: 121.53,
+    tempo_no_kernel_gpu: 18.527,
+    tempo_sequencial_cpu: 103.003,
+    particulas: 300,
+    passos: 50,
+    threads: 32
+},
+{
+    tempo_total: 176.281,
+    tempo_no_kernel_gpu: 63.619,
+    tempo_sequencial_cpu: 112.662,
+    particulas: 600,
+    passos: 100,
+    threads: 32
+},
+{
+    tempo_total: 8015.274,
+    tempo_no_kernel_gpu: 7854.785,
+    tempo_sequencial_cpu: 160.489,
+    particulas: 16384,
+    passos: 100,
+    threads: 32
+},
+{
+    tempo_total: 3707.61,
+    tempo_no_kernel_gpu: 3483.14,
+    tempo_sequencial_cpu: 224.47,
+    particulas: 5000,
+    passos: 400,
+    threads: 32
+},
+{
+    tempo_total: 180.335,
+    tempo_no_kernel_gpu: 65.591,
+    tempo_sequencial_cpu: 114.744,
+    particulas: 600,
+    passos: 100,
+    threads: 32
+},
+{
+    tempo_total: 176.367,
+    tempo_no_kernel_gpu: 64.318,
+    tempo_sequencial_cpu: 112.049,
+    particulas: 600,
+    passos: 100,
+    threads: 32
+},
+{
+    tempo_total: 8039.164,
+    tempo_no_kernel_gpu: 7862.58,
+    tempo_sequencial_cpu: 176.584,
+    particulas: 16384,
+    passos: 100,
+    threads: 32
+},
+{
+    tempo_total: 120.024,
+    tempo_no_kernel_gpu: 18.505,
+    tempo_sequencial_cpu: 101.519,
+    particulas: 300,
+    passos: 50,
+    threads: 32
+},
+{
+    tempo_total: 8021.401,
+    tempo_no_kernel_gpu: 7864.766,
+    tempo_sequencial_cpu: 156.635,
+    particulas: 16384,
+    passos: 100,
+    threads: 32
+},
+{
+    tempo_total: 93.769,
+    tempo_no_kernel_gpu: 0.696,
+    tempo_sequencial_cpu: 93.073,
+    particulas: 4,
+    passos: 10,
+    threads: 32
+},
+{
+    tempo_total: 385.038,
+    tempo_no_kernel_gpu: 252.197,
+    tempo_sequencial_cpu: 132.841,
+    particulas: 1200,
+    passos: 200,
+    threads: 32
+},
+{
+    tempo_total: 101.502,
+    tempo_no_kernel_gpu: 0.67,
+    tempo_sequencial_cpu: 100.832,
+    particulas: 4,
+    passos: 10,
+    threads: 32
+},
+{
+    tempo_total: 3706.313,
+    tempo_no_kernel_gpu: 3481.843,
+    tempo_sequencial_cpu: 224.47,
+    particulas: 5000,
+    passos: 400,
+    threads: 32
+},
+{
+    tempo_total: 7993.99,
+    tempo_no_kernel_gpu: 7842.178,
+    tempo_sequencial_cpu: 151.812,
+    particulas: 16384,
+    passos: 100,
+    threads: 32
+},
+{
+    tempo_total: 404.738,
+    tempo_no_kernel_gpu: 252.421,
+    tempo_sequencial_cpu: 152.317,
+    particulas: 1200,
+    passos: 200,
+    threads: 32
+},
+{
+    tempo_total: 94.192,
+    tempo_no_kernel_gpu: 0.637,
+    tempo_sequencial_cpu: 93.555,
+    particulas: 4,
+    passos: 10,
+    threads: 32
+},
+{
+    tempo_total: 3679.405,
+    tempo_no_kernel_gpu: 3463.517,
+    tempo_sequencial_cpu: 215.888,
+    particulas: 5000,
+    passos: 400,
+    threads: 32
+},
+{
+    tempo_total: 95.521,
+    tempo_no_kernel_gpu: 0.688,
+    tempo_sequencial_cpu: 94.833,
+    particulas: 4,
+    passos: 10,
+    threads: 32
+},
+{
+    tempo_total: 122.268,
+    tempo_no_kernel_gpu: 18.652,
+    tempo_sequencial_cpu: 103.616,
+    particulas: 300,
+    passos: 50,
+    threads: 32
+},
+{
+    tempo_total: 186.944,
+    tempo_no_kernel_gpu: 63.126,
+    tempo_sequencial_cpu: 123.818,
+    particulas: 600,
+    passos: 100,
+    threads: 32
+},
+{
+    tempo_total: 120.358,
+    tempo_no_kernel_gpu: 18.535,
+    tempo_sequencial_cpu: 101.823,
+    particulas: 300,
+    passos: 50,
+    threads: 32
+},
+{
+    tempo_total: 3688.874,
+    tempo_no_kernel_gpu: 3467.975,
+    tempo_sequencial_cpu: 220.899,
+    particulas: 5000,
+    passos: 400,
+    threads: 32
+},
+{
+    tempo_total: 94.401,
+    tempo_no_kernel_gpu: 0.674,
+    tempo_sequencial_cpu: 93.727,
+    particulas: 4,
+    passos: 10,
+    threads: 32
+},
+{
+    tempo_total: 120.714,
+    tempo_no_kernel_gpu: 18.56,
+    tempo_sequencial_cpu: 102.154,
+    particulas: 300,
+    passos: 50,
+    threads: 32
+}
